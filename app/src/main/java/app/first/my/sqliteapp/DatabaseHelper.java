@@ -74,5 +74,25 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         return sqLiteDatabase.delete(TABLE_NAME,"ID = ?",new String[]{id});
 
+        /*prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba
+        prueba*/
+        
+
+
+
+
+
+
     }
 }
