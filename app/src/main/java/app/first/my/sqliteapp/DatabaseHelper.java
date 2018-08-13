@@ -73,6 +73,25 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         contentValues.put(COL1, id);
 
         return sqLiteDatabase.delete(TABLE_NAME,"ID = ?",new String[]{id});
+/*
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+PRUEBA
+
+*/
+
 
     }
 }
